@@ -2,7 +2,8 @@
 Stylee is Social Network Platform on iOS and Android that allows user to organize and socialize around your fashion style and clothing.
 
 ### Deploy Plan
-    - Coming Soon
+    iOS : (Coming Soon)
+    Android: (Coming Soon)
 
 ### Development: August 2017 - present (suspended for school work)
     - Back-End
