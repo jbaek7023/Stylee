@@ -5,7 +5,7 @@ Stylee is Social Network Platform on iOS and Android that allows user to organiz
     iOS : (Coming Soon)
     Android: (Coming Soon)
 
-### Development: August 2017 - present (suspended for school work)
+### Development: August 2017 - present
     - Back-End
     (screenshot)
     
@@ -15,7 +15,9 @@ Stylee is Social Network Platform on iOS and Android that allows user to organiz
     - Computer Vision
     (screenshot)
 
-### Nov 2016 - July 2017: Learned Tech Stacks needed for this project
+### Nov 2016 - July 2017
+Learned Tech Stacks needed for this project
+
 1. Online Courses
     - Artificial Intelligence Nanodegree - Udacity (co-created by IBM Watson, Amazon Alexa, DiDi)
         - Machine Learning (Project)
@@ -50,9 +52,3 @@ Stylee is Social Network Platform on iOS and Android that allows user to organiz
         
 ### Feb 2016 tp Oct 2016: Project Idea Stage - Project Research
 Interviews, Draw App Idea Sketches and Tech Stack Research.
-
-
-
-
-
-
