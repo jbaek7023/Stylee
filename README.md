@@ -1,8 +1,18 @@
 # Stylee
 Stylee is Social Network Platform on iOS and Android that allows user to organize and socialize around your fashion style and clothing.
 
-### Feb 2016 tp Oct 2016: Project Idea Stage - Project Research
-Interviews, Draw App Idea Sketches and Tech Stack Research.
+### Deploy Plan
+    - Coming Soon
+
+### Development: August 2017 - present (suspended for school work)
+    - Back-End
+    (screenshot)
+    
+    - Front-End
+    (screenshot)
+    
+    - Computer Vision
+    (screenshot)
 
 ### Nov 2016 - July 2017: Learned Tech Stacks needed for this project
 1. Online Courses
@@ -36,16 +46,12 @@ Interviews, Draw App Idea Sketches and Tech Stack Research.
 4. Continue meeting people and get feedbacks about my app sketches and ideas.
     - App Sketches
         (img)
+        
+### Feb 2016 tp Oct 2016: Project Idea Stage - Project Research
+Interviews, Draw App Idea Sketches and Tech Stack Research.
 
-### Development: August 2017 - present (suspended for school work)
-    - Back-End
-    (screenshot)
-    
-    - Front-End
-    (screenshot)
-    
-    - Computer Vision
-    (screenshot)
 
-### Deploy Plan
-    - Coming Soon
+
+
+
+
