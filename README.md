@@ -3,7 +3,7 @@ Stylee is Social Network Platform on iOS and Android that allows user to organiz
 
 ### Quick Demo - 2017 
 
-DM to see the full demo - Sorry I don't share full feature of my app with everyone :)
+DM to see the full demo - Sorry I don't share full feature of my app yet
 
 ![demo](Stylee_ogv.gif)
 
