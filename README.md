@@ -34,7 +34,7 @@ Learned Tech Stacks needed for this project
 
 
 3. Participating Hackerthon - To get used to the Team Environment
-    - 4th Korea Ministry Convergence Hackathon Competition - August 31 - Sep 2 (2 nights and 3 days)
+    - 4th Korea Ministry Convergence Hackathon Competition - August 31 - Sep 2 (2 nights and 3 days)
         (imag)
     
     - Microsoft & AskDjango Hackathon (1 night and 2 days)
