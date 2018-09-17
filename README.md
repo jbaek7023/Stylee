@@ -9,13 +9,13 @@ I was thinking about what will be the next Facebook or Instagram in next 4 years
 
 In short this took me to...
 
-- Wrote 65+ APIs and 56+ pages(screens) in 4 months - Front-End 11,0000 codes, 33,000 codes... 
+- Wrote **65+ APIs* and **56+ pages**(screens) in **4 months**
 - Finished 3 nanodegrees (Udacity) and 9 Udemy courses in 8 months
 - Attended 3 hackerthon, and met brilliant people the durinre (Some people had same passions and industry leads).
 - Got StackOverflow 600+ reputation (I'm not sure if this is something that I should be proud of, but I like the number)
 - Found building a software is much fun than I thought in my university. 🙂
 
-사진 (code), (FE code), StackOverflow
+(code), (FE code), StackOverflow
 (AIND)(FSND)(FEND)
 
 ## Demo
@@ -28,11 +28,11 @@ This is not a full demo - But it gives you a general idea of what I built
 
 I interviewed 13 people for idea pitching and 3 people for UI testing.
 
-Here are low-fidality sketch!
+**Low Fidality Sketch:**
 
-I did lots of research for what technology I can use and I ended up using React Native and Django. 
+[photo]
 
-Tech Stacks:
+**Tech Stacks:**
  
 - Django / Phython
 - React/Redux/JavaScript/react-navigation/ 
