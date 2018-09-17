@@ -84,7 +84,7 @@ Trello/Asana
 
 ## Next Step
 
-From this project, I've learend how to build mobile app with React Native and Django from scratch!
+I've learend how to build mobile app with React Native and Django from scratch!
 
 - I'm going to experience with scalable back-end system like Facebook, Pinterest, or Instagram. Chef and Jenkins are something that I'm learning from last summer.
 
@@ -93,8 +93,6 @@ From this project, I've learend how to build mobile app with React Native and Dj
 - I'm going to build 20 mobile apps for the next 5 years to improve Django, React, JavaScript, Python skills.
 
 - I think I should start Median. I just made an account: https://medium.com/@johnbaek 
-
-Written in 2018
 
 ## Online courses for this project
 
