@@ -1,7 +1,9 @@
 <img src="logo.png" width="100" height="100" title="Stylee Logo"> <img src="name2.png" height="100" title="Stylee Logo"> 
 
 ---
-Stylee is Social Network Platform which allows user to organize and socialize around your fashion style and clothing. This is NOT a school project but a project for my interest.
+Stylee is Social Network Platform which allows user to organize and socialize around your fashion style and clothing. 
+
+This is NOT a school project but a project for my interest.
 &nbsp;
 
 ## Demo
@@ -11,7 +13,7 @@ Stylee is Social Network Platform which allows user to organize and socialize ar
 Youtube Link: [click](https://youtu.be/5ytDSnle2zQ)
 
 ## Story
-I was thinking about what will be the next Facebook or Instagram in next 4 years. Every day before I went to bed, I wrote down at least one idea of the next social network service or next generation of mobile apps would be. And I thought I'd make an app for myself. I wasn't very well dressed, so I thought I'd make an app that would help me dress well. 
+**I was thinking about what will be the next Facebook or Instagram in next 4 years.** Every day before I went to bed, I wrote down at least one idea of the next social network service or next generation of mobile apps would be. And I thought I'd make an app for myself. I wasn't very well dressed, so I thought I'd make an app that would help me dress well. 
 
 In short this took me to...
 
@@ -29,15 +31,18 @@ In short this took me to...
 <img src="fe.png" height="200" title="Stylee Logo"> <img src="api.png" height="200" title="Stylee Logo"> <img src="stackoverflow.png" height="200" title="Stylee Logo"> 
 
 
-### UI/UX (March 2016 - Aug 2017) 
 
-I interviewed 13 people for idea pitching and 3 people for UI testing.
+
+## Interviews, Business Model, UI/UX, Tech Stack Research (March 2016 - Aug 2017) 
+
+I interviewed 13 people for idea pitching and 3 people for UI testing. 
 
 **Low Fidality Sketch:**
 
-[photo]
+<img src="3.jpg" height="200" title="Stylee Logo"> <img src="1.jpg" height="200" title="Stylee Logo"> <img src="2.jpg" height="200" title="Stylee Logo"> 
 
-**Tech Stacks:**
+
+**Finalised Tech Stacks:**
  
 - Django / Phython
 - React/Redux/JavaScript/react-navigation/ 
@@ -86,6 +91,9 @@ Had to more prioritize the works. Some times I too much focused on such function
 Should have finite Business Model so that at least I can pay for the AWS server fee.
 Trello/Asana
 
+### Business
+
+If you think "Ad" will give you dollars and don't think more about back-up plan, it's very difficult to sustain your business. Your app is not Google. 
 
 ## Next Step
 
