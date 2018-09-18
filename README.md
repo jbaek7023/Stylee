@@ -4,6 +4,12 @@
 Stylee is Social Network Platform which allows user to organize and socialize around your fashion style and clothing. This is NOT a school project but a project for my interest.
 &nbsp;
 
+## Demo
+
+![demo](Stylee_ogv.gif)
+
+Youtube Link: [click](https://youtu.be/5ytDSnle2zQ)
+
 ## Story
 I was thinking about what will be the next Facebook or Instagram in next 4 years. Every day before I went to bed, I wrote down at least one idea of the next social network service or next generation of mobile apps would be. And I thought I'd make an app for myself. I wasn't very well dressed, so I thought I'd make an app that would help me dress well. 
 
@@ -18,11 +24,10 @@ In short this took me to...
 사진 (code), (FE code), StackOverflow
 (AIND)(FSND)(FEND)
 
-## Demo
-Youtube Link: [click](https://youtu.be/5ytDSnle2zQ)
-This is not a full demo - But it gives you a general idea of what I built
+<img src="aind.png" height="200" title="Stylee Logo"> <img src="fsnd.png" height="200" title="Stylee Logo"> <img src="fend.png" height="200" title="Stylee Logo"> 
 
-![demo](Stylee_ogv.gif)
+<img src="fe.png" height="200" title="Stylee Logo"> <img src="api.png" height="200" title="Stylee Logo"> <img src="stackoverflow.png" height="200" title="Stylee Logo"> 
+
 
 ### UI/UX (March 2016 - Aug 2017) 
 
