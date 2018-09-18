@@ -15,13 +15,13 @@ I was thinking about what will be the next Facebook or Instagram in next 4 years
 
 In short this took me to...
 
-- Wrote 65+ APIs and 56+ pages(screens) in 4 months - Front-End 11,0000 codes, 33,000 codes... 
+- Wrote **65+ APIs* and **56+ pages**(screens) in **4 months**
 - Finished 3 nanodegrees (Udacity) and 9 Udemy courses in 8 months
 - Attended 3 hackerthon, and met brilliant people the durinre (Some people had same passions and industry leads).
 - Got StackOverflow 600+ reputation (I'm not sure if this is something that I should be proud of, but I like the number)
 - Found building a software is much fun than I thought in my university. 🙂
 
-사진 (code), (FE code), StackOverflow
+(code), (FE code), StackOverflow
 (AIND)(FSND)(FEND)
 
 <img src="aind.png" height="200" title="Stylee Logo"> <img src="fsnd.png" height="200" title="Stylee Logo"> <img src="fend.png" height="200" title="Stylee Logo"> 
@@ -33,11 +33,11 @@ In short this took me to...
 
 I interviewed 13 people for idea pitching and 3 people for UI testing.
 
-Here are low-fidality sketch!
+**Low Fidality Sketch:**
 
-I did lots of research for what technology I can use and I ended up using React Native and Django. 
+[photo]
 
-Tech Stacks:
+**Tech Stacks:**
  
 - Django / Phython
 - React/Redux/JavaScript/react-navigation/ 
@@ -89,7 +89,7 @@ Trello/Asana
 
 ## Next Step
 
-From this project, I've learend how to build mobile app with React Native and Django from scratch!
+I've learend how to build mobile app with React Native and Django from scratch!
 
 - I'm going to experience with scalable back-end system like Facebook, Pinterest, or Instagram. Chef and Jenkins are something that I'm learning from last summer.
 
@@ -98,8 +98,6 @@ From this project, I've learend how to build mobile app with React Native and Dj
 - I'm going to build 20 mobile apps for the next 5 years to improve Django, React, JavaScript, Python skills.
 
 - I think I should start Median. I just made an account: https://medium.com/@johnbaek 
-
-Written in 2018
 
 ## Online courses for this project
 
