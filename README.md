@@ -15,7 +15,7 @@ I was thinking about what will be the next Facebook or Instagram in next 4 years
 
 In short this took me to...
 
-- Wrote **65+ APIs* and **56+ pages**(screens) in **4 months**
+- Wrote **65+ APIs** and **56+ pages**(screens) in **4 months**
 - Finished 3 nanodegrees (Udacity) and 9 Udemy courses in 8 months
 - Attended 3 hackerthon, and met brilliant people the durinre (Some people had same passions and industry leads).
 - Got StackOverflow 600+ reputation (I'm not sure if this is something that I should be proud of, but I like the number)
