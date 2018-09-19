@@ -1,4 +1,4 @@
-<img src="logo.png" width="100" height="100" title="Stylee Logo"> <img src="name2.png" height="100" title="Stylee Logo"> 
+<img src="src/logo.png" width="100" height="100" title="Stylee Logo"> <img src="src/name2.png" height="100" title="Stylee Logo"> 
 
 ---
 Stylee is Social Network Platform which allows user to organize and socialize around your fashion style and clothing. 
@@ -8,7 +8,7 @@ This is NOT a school project but a project for my interest.
 
 ## Demo
 
-![demo](Stylee_ogv.gif)
+![demo](src/Stylee_ogv.gif)
 
 Youtube Link: [click](https://youtu.be/5ytDSnle2zQ)
 
@@ -26,9 +26,9 @@ In short this took me to...
 (code), (FE code), StackOverflow
 (AIND)(FSND)(FEND)
 
-<img src="aind.png" height="200" title="Stylee Logo"> <img src="fsnd.png" height="200" title="Stylee Logo"> <img src="fend.png" height="200" title="Stylee Logo"> 
+<img src="src/aind.png" height="200" title="Stylee Logo"> <img src="src/fsnd.png" height="200" title="Stylee Logo"> <img src="src/fend.png" height="200" title="Stylee Logo"> 
 
-<img src="fe.png" height="200" title="Stylee Logo"> <img src="api.png" height="200" title="Stylee Logo"> <img src="stackoverflow.png" height="200" title="Stylee Logo"> 
+<img src="src/fe.png" height="200" title="Stylee Logo"> <img src="src/api.png" height="200" title="Stylee Logo"> <img src="src/stackoverflow.png" height="200" title="Stylee Logo"> 
 
 
 
@@ -39,7 +39,7 @@ I interviewed 13 people for idea pitching and 3 people for UI testing.
 
 **Low Fidality Sketch:**
 
-<img src="3.jpg" height="200" title="Stylee Logo"> <img src="1.jpg" height="200" title="Stylee Logo"> <img src="2.jpg" height="200" title="Stylee Logo"> 
+<img src="src/3.jpg" height="200" title="Stylee Logo"> <img src="src/1.jpg" height="200" title="Stylee Logo"> <img src="src/2.jpg" height="200" title="Stylee Logo"> 
 
 
 **Finalised Tech Stacks:**
