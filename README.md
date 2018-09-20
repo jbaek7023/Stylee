@@ -107,7 +107,7 @@ Login-Page: Social Login, Main Login
 
 - I'm going to build 15 mobile apps for the next 5 years to improve my Django, React, JavaScript, Python skills.
 
-- Experience with a scalable systems using Chef and Jenkins. 
+- Experience with a scalable systems with Chef, Jenkins, and Docker. I think DevOps is like a magic.
 
 - Learn more about low-level system design stuff: RPC, Load Balancer and so on. I know how it works.
 
