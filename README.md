@@ -8,7 +8,7 @@ This is NOT a school project but a project for my interest. This project is tota
 
 ## Demo
 
-gif takes some time to load, so please check out the video link:
+gif takes some time to load, so I recommend you to check out the link below:
 
 - This video (Core): [LINK](https://youtu.be/Y_94Z3VHYHo)
 
