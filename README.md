@@ -41,7 +41,11 @@ I interviewed 13 people for idea pitching and 3 people for UI testing.
 
 **Low Fidality Sketch:**
 
-<img src="src/3.jpg" height="200" title="Stylee Logo"> <img src="src/1.jpg" height="200" title="Stylee Logo"> <img src="src/2.jpg" height="200" title="Stylee Logo"> 
+<img src="src/1.jpg" height="200" title="Stylee Logo"> <img src="src/4.jpg" height="200" title="Stylee Logo"> <img src="src/2.jpg" height="200" title="Stylee Logo"> <img src="src/3.jpg" height="200" title="Stylee Logo"> 
+
+**ORM Basic + Flow**
+
+<img src="src/5.jpg" height="300" title="Stylee Logo"> 
 
 **Finalised Tech Stacks:**
  
