@@ -8,9 +8,15 @@ This is NOT a school project but a project for my interest.
 
 ## Demo
 
-![demo](src/Stylee_ogv.gif)
+![demo](src/demo1.gif)
 
-Youtube Link: [click](https://youtu.be/5ytDSnle2zQ)
+<!--![demo](src/demo2.gif)-->
+
+- This video (Core): [LINK](https://youtu.be/Y_94Z3VHYHo)
+
++ More demo (Sign-Up page): [LINK](https://youtu.be/Leog1Ldyycg)
+
++ Old Demo: [click](https://youtu.be/5ytDSnle2zQ)
 
 ## Story
 **I was thinking about what will be the next Facebook or Instagram in next 4 years.** Every day before I went to bed, I wrote down at least one idea of the next social network service or next generation of mobile apps would be. And I thought I'd make an app for myself. I wasn't very well dressed, so I thought I'd make an app that would help me dress well. 
@@ -33,7 +39,7 @@ In short this took me to...
 
 
 
-## Interviews, Business Model, UI/UX, Tech Stack Research (March 2016 - Aug 2017) 
+## Interviews, Business Model, UI/UX, Tech Stack Research
 
 I interviewed 13 people for idea pitching and 3 people for UI testing. 
 
