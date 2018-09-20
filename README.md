@@ -3,7 +3,7 @@
 ---
 Stylee is Social Network Platform which allows user to organize and socialize around your fashion style and clothing. 
 
-This is NOT a school project but a project for my interest. This project is totally on my own. It was a lot of fun and I just enjoyed the learning process throughout. 
+This is NOT a school project but a project for my interest. Which means,,, I literally built everything on my own. It was a lot of fun and I just enjoyed the learning process throughout. 
 &nbsp;
 
 ## Demo
