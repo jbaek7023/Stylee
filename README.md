@@ -3,7 +3,7 @@
 ---
 Stylee is Social Network Platform which allows user to organize and socialize around your fashion style and clothing. 
 
-This is NOT a school project but a project for my interest.
+This is NOT a school project but a project for my interest. This project is totally on my own. It was a lot of fun and I just enjoyed the learning process throughout. 
 &nbsp;
 
 ## Demo
@@ -27,17 +27,13 @@ In short this took me to...
 - Finished 3 nanodegrees (Udacity) and 9 Udemy courses in 8 months
 - Attended 3 hackerthon, and met brilliant people the durinre (Some people had same passions and industry leads).
 - Got StackOverflow 600+ reputation (I'm not sure if this is something that I should be proud of, but I like it)
+- Read bunch of deep learning papers for Regional Convolutional Neural Network. (When I built this app, R-CNN wasn't popular and still under a research. It was often called as 'Darknet')
 - Found building a software is much fun than I thought in my university. 🙂
-
-(code), (FE code), StackOverflow
-(AIND)(FSND)(FEND)
 
 <img src="src/aind.png" height="200" title="Stylee Logo"> <img src="src/fsnd.png" height="200" title="Stylee Logo"> <img src="src/fend.png" height="200" title="Stylee Logo"> 
 
 <img src="src/fe.png" height="200" title="Stylee Logo"> <img src="src/api.png" height="200" title="Stylee Logo"> <img src="src/stackoverflow.png" height="200" title="Stylee Logo"> 
-
-
-
+&nbsp;
 
 ## Interviews, Business Model, UI/UX, Tech Stack Research
 
@@ -46,7 +42,6 @@ I interviewed 13 people for idea pitching and 3 people for UI testing.
 **Low Fidality Sketch:**
 
 <img src="src/3.jpg" height="200" title="Stylee Logo"> <img src="src/1.jpg" height="200" title="Stylee Logo"> <img src="src/2.jpg" height="200" title="Stylee Logo"> 
-
 
 **Finalised Tech Stacks:**
  
@@ -70,50 +65,47 @@ Login-Page: Social Login, Main Login
 ```
 
 
-## Key Takeaways (Draft - will rewrite soon)
+## Key Takeaways for my next app
 #### Back-End (Django / Python)
-Testing: Need to have QA system
-Dependency: Should be careful when you import new libraries. And make sure 
-... From this point, I got interested in DevOps field.
+- Testing: Need to have QA environment for testing - Use TravisCI and Robot (Need TDD for documentation and maintainable system)
+- Dependency: Should be more careful when you import new libraries
+- Authorization: Better to write registration/login process by myself. It's risky to rely on a specific library for social login and basic login. So I ended up writing all auth screens from scratch.
+- Use Radis Cache for populating aggregated(ranking) result. It's actually very easy and powerful.
+- I chose Django because Python has much more machine learning libraries than Ruby or Node.js.
 
 #### Front-End
-React Component: Make as many components as you can. It can make you code more readable and manageble. There is no over-engineering if you're building components... Keep your screen 
-Testing: More than enough... 
-EsLint more properly...
-Libraries.. depedency. 
-Choose MobX over Redux. 
-Expo. 
+- React: Make sure keep your screen simple using Components. It can make your code more readable and manageble. 
+- Testing: More than enough to 
+- Style: You don't want to fix 1,000 lines of codes in the end. Set up ESLint in advance and try to write a clean code.
+- Redux: Redux is immutable, which means it's hard to build a product quickly. MobX will be better choice.
+- Expo: Expo takes too much memory space.
+- Pixel Crop: There was no great cropping library available in RN
+- File Transfer: RN Blob is not supported for both platforms. It can send the packets for file/photo, but it doesn't clean the cache gracefully. Need to eject Expo and use other native libraries.
+- PureComponent: Don't use pure component all time. Shallow copy is expensive. If it rerender every second, better to use Component.
+- DL model implmentation: Still on going 
 
 #### AI / Data Analysis
-Data Wrangling: This takes much more time than I think. 
-Data Analysis: there were 32 types of clothes I defined under 5 different ... I had to do some interviews + questions on Quora. It definetely helped but ... 
-AI: I used R-CNN to detect the type of clothes. It's difficult to 
+- Data Scrapping / Wrangling: Finding 10,000 data of different types of clothes were ok, but tagging and making key points of each object in the photo was not fun.
+- Data Analysis: 
+- AI: I used R-CNN to detect the type of clothes.  
 
 #### Project Management / Software Engineering / Project Design
-Design is important. And should make a sprint. Had to use Agile
-It's difficult to change project design especially if you're building something by yourself. Make sure you have a high fidality with Sketch/InVision at least. If you have low-fidality on your hand and build it, you'll likely end up having similar UI with your low-fi design. So waterfall for design and deveolopment stage + development + stage.
-Front-End took 4x times than Back-End. As your system grows, but back-end takes much more time as you scale.
-Had to more prioritize the works. Some times I too much focused on such functionality like 'touch navigation button for 
-Should have finite Business Model so that at least I can pay for the AWS server fee.
-Trello/Asana
-
-### Business
-
-If you think "Ad" will give you dollars and don't think more about back-up plan, it's very difficult to sustain your business. Your app is not Google. 
+- Prototyping: Hands-on prototyping is important. Use Sketch and InVision to demo your project.
+- Planning/Management: Use Asana or Trello to manage your project. Set a sprint every week (or 2 weeks).
+- Planning: Front-End takes 4x times than Back-End. But back-end will take much more time as it scales.
+- Business Model: if you think Ads will bring your revenue and don't have any back-up plan, how are you going to run your business without money in the early stage?
 
 ## Next Step
 
-I've learend how to build mobile app with React Native and Django from scratch!
+- I'm going to build 15 mobile apps for the next 5 years to improve my Django, React, JavaScript, Python skills.
 
-- I'm going to experience with scalable back-end system like Facebook, Pinterest, or Instagram. Chef and Jenkins are something that I'm learning from last summer.
+- Experience with a scalable systems using Chef and Jenkins. 
 
-- I'm interested in managing and automating development pipeline. 
-
-- I'm going to build 20 mobile apps for the next 5 years to improve Django, React, JavaScript, Python skills.
+- Learn more about low-level system design stuff: RPC, Load Balancer and so on. I know how it works.
 
 - I think I should start Median. I just made an account: https://medium.com/@johnbaek 
 
-## Online courses for this project
+## Online Courses
 
 Udacity (Fundamental / Practical): 
 
@@ -129,3 +121,5 @@ Udemy (Skill Specific):
 Youtube Tutorials (Technical Know-How): 
 
 - Search ReactConf, PyCon, and many more.
+
+And of course, some documentations.
