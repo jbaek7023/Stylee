@@ -72,37 +72,6 @@ Sign-Up Page: ssdfssdfsdf
 Login-Page: Social Login, Main Login
 ```
 
-
-## Key Takeaways for my next app
-#### Back-End (Django / Python)
-- Testing: Need to have QA environment for testing - Use TravisCI and Robot (Need TDD for documentation and maintainable system)
-- Dependency: Should be more careful when you import new libraries
-- Authorization: Better to write registration/login process by myself. It's risky to rely on a specific library for social login and basic login. So I ended up writing all auth screens from scratch.
-- Use Radis Cache for populating aggregated(ranking) result. It's actually very easy and powerful.
-- I chose Django because Python has much more machine learning libraries than Ruby or Node.js.
-
-#### Front-End
-- React: Make sure keep your screen simple using Components. It can make your code more readable and manageble. 
-- Testing: More than enough to 
-- Style: You don't want to fix 1,000 lines of codes in the end. Set up ESLint in advance and try to write a clean code.
-- Redux: Redux is immutable, which means it's hard to build a product quickly. MobX will be better choice.
-- Expo: Expo takes too much memory space.
-- Pixel Crop: There was no great cropping library available in RN
-- File Transfer: RN Blob is not supported for both platforms. It can send the packets for file/photo, but it doesn't clean the cache gracefully. Need to eject Expo and use other native libraries.
-- PureComponent: Don't use pure component all time. Shallow copy is expensive. If it rerender every second, better to use Component.
-- DL model implmentation: Still on going 
-
-#### AI / Data Analysis
-- Data Scrapping / Wrangling: Finding 10,000 data of different types of clothes were ok, but tagging and making key points of each object in the photo was not fun.
-- Data Analysis: 
-- AI: I used R-CNN to detect the type of clothes.  
-
-#### Project Management / Software Engineering / Project Design
-- Prototyping: Hands-on prototyping is important. Use Sketch and InVision to demo your project.
-- Planning/Management: Use Asana or Trello to manage your project. Set a sprint every week (or 2 weeks).
-- Planning: Front-End takes 4x times than Back-End. But back-end will take much more time as it scales.
-- Business Model: if you think Ads will bring your revenue and don't have any back-up plan, how are you going to run your business without money in the early stage?
-
 ## Next Step
 
 - I'm going to build 15 mobile apps for the next 5 years to improve my Django, React, JavaScript, Python skills.
