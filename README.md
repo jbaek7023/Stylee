@@ -31,8 +31,8 @@ In short this took me to...
 - Finished **3 nanodegrees** (Udacity) and **9** Udemy courses in **8 months**
 - Attended **3 hackerthon**, and **met brilliant people who have same interest in software engineering like me** (Met entrepreneurs, designers and software engineers).
 - Got StackOverflow **600+ reputation** (I'm not sure if this is something that I should be proud of, but I like it)
-- **Read bunch of deep learning papers**(7 papers?; only 3 of them were useful) for Regional Convolutional Neural Network. (When I built this app, R-CNN wasn't popular and still under a research. It was often called as 'Darknet')
-- **Found building a software is much fun than I thought in my university.** 🙂
+- Read bunch of deep learning papers (7 papers?; only 3 of them were useful) for Regional Convolutional Neural Network. (When I built this app, R-CNN wasn't popular and still under a research. It was often called as 'Darknet')
+- Found building a software is much fun than I thought in my university. 🙂
 
 <img src="src/aind.png" height="200" title="Stylee Logo"> <img src="src/fsnd.png" height="200" title="Stylee Logo"> <img src="src/fend.png" height="200" title="Stylee Logo"> 
 
