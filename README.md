@@ -60,7 +60,7 @@ I interviewed 13 people for idea pitching and 3 people for UI testing.
 - getStream.io for Newsfeed and Notification (Got this idea from Hackerthon - Thanks Kyung-Hoon)
 
 ### Final Page Hirearchy
-Total 30 screens.
+Total 56 screens Main tree
 
 ```
 Newsfeed Page: Newsfeed Main, Weekly Top 100 page
@@ -74,7 +74,7 @@ Login-Page: Social Login, Main Login
 
 ## Next Step
 
-- I'm going to build 15 mobile apps for the next 5 years to improve my Django, React, JavaScript, Python skills.
+- Build 15 mobile apps for the next 5 years to improve my Django, React, JavaScript, Python skills.
 
 - Experience with a scalable systems with Chef, Jenkins, and Docker. I think DevOps is like a magic.
 
@@ -99,4 +99,4 @@ Youtube Tutorials (Technical Know-How):
 
 - Search ReactConf, PyCon, and many more.
 
-And of course, some documentations.
+And some documentations were helpful.
