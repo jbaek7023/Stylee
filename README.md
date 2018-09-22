@@ -78,7 +78,7 @@ Login-Page: Social Login, Main Login
 
 - Experience with a scalable systems with Chef, Jenkins, and Docker. I think DevOps is like a magic.
 
-- Learn more about low-level system design stuff: RPC, Load Balancer and so on. I know how it works.
+- Learn more about low-level system design stuff: RPC, Load Balancer and so on. I know how it works, but I want to know the details.
 
 - I think I should start Median. I just made an account: https://medium.com/@johnbaek 
 
