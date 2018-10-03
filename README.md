@@ -50,7 +50,7 @@ I interviewed 13 people for idea pitching and 3 people for UI testing.
 
 <img src="src/5.jpg" height="300" title="Stylee Logo"> 
 
-**Finalised Tech Stacks:**
+**Finalized Tech Stacks**
  
 - Django / Phython
 - React/Redux/JavaScript/react-navigation/ 
@@ -67,7 +67,7 @@ Style page: Style page, Category page, Bookmark page
 Wardrobe page: list of posts by the type of clothes
 Notification: Notification Main Page
 Settings Page: Terms/Condition, Privacy Policy, Change Password, Sign Out
-Sign-Up Page: ssdfssdfsdf
+Sign-Up Page: 6 User sign-up pages
 Login-Page: Social Login, Main Login
 ```
 
