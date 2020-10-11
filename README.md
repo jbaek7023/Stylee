@@ -1,14 +1,20 @@
-## Stylee
-<img src="src/logo2.png" width="150" title="Stylee Logo"> 
 
-**Stylee** is a Social Network Platform which allows user to organize and socialize around your fashion style and clothing. This is NOT a school project but a project for my interest. Which means, I literally built everything on my own.
+## Stylee
+
+<img src="src/logo2.png" style="float: left;" width="100" title="Stylee Logo"> 
+**Stylee** is a Social Network Platform which allows user to organize and socialize around your fashion style and clothing. This is NOT a school project but a project for my interest. I built everything on my own.
 &nbsp;
 
-Codebase: 
+
+
+<br /><br />
+
 
 - Backend API: https://github.com/jbaek7023/Stylee-API
 - Frontend : https://github.com/jbaek7023/Stylee-Mobile
 - Clothing Recognition: TBU
+
+
 
 ## Features
 <img src="src/flow/a1.jpg" title="Stylee Logo"> 
