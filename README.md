@@ -1,5 +1,5 @@
 ## Stylee
-<img src="src/logo.png" width="150" title="Stylee Logo"> 
+<img src="src/logo2.png" width="150" title="Stylee Logo"> 
 
 **Stylee** is a Social Network Platform which allows user to organize and socialize around your fashion style and clothing. This is NOT a school project but a project for my interest. Which means, I literally built everything on my own.
 &nbsp;
