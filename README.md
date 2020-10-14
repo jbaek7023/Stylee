@@ -1,5 +1,5 @@
 
-## Stylee
+## Stylee - built in 2016 (4months)
 
 <img src="src/logo2.png" style="float: left;" width="100" title="Stylee Logo"> 
 **Stylee** is a Social Network Platform which allows user to organize and socialize around your fashion style and clothing. This is NOT a school project but a project for my interest. I built everything on my own.
